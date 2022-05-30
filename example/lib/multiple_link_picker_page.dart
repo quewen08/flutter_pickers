@@ -1,9 +1,6 @@
 import 'package:example/widget/my_app_bar.dart';
-import 'package:example/widget/my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_pickers/pickers.dart';
-import 'package:flutter_pickers/style/default_style.dart';
-import 'package:flutter_pickers/style/picker_style.dart';
 
 class MultipleLinkPickerPage extends StatefulWidget {
   @override

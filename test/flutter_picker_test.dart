@@ -1,6 +1,3 @@
-import 'package:flutter_pickers/address_picker/locations_data.dart';
-import 'package:flutter_test/flutter_test.dart';
-
 void main() {
   // List fruits = ['apples', 'bananas', 1];
   // List foods = ['apples', 'bananas', 1];
